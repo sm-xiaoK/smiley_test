@@ -1,8 +1,8 @@
-apiVersion: test
+apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
   name: acme-corp
-  description: A collection of all Backstage example Groups'"\
+  description: A collection of all Backstage example Groups
 spec:
   targets:
     - ./acme/org.yaml
