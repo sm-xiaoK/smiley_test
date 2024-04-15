@@ -1,7 +1,7 @@
 apiVersion: test
 kind: Location
 metadata:
-  name: acme-corp'"\
+  name: acme-corp
   description: A collection of all Backstage example Groups'"\
 spec:
   targets:
