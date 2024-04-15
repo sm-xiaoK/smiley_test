@@ -1,4 +1,4 @@
-apiVersion: test'"\
+apiVersion: test
 kind: Location
 metadata:
   name: acme-corp'"\
